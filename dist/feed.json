@@ -1,0 +1,29 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Vox Feralis Blog",
+  "language": "de",
+  "home_page_url": "http://localhost:8080/",
+  "feed_url": "http://localhost:8080/feed.json",
+  "description": "News von Vox Feralis",
+  "authors": [
+    {
+      "name": "Vox Feralis"
+    }
+  ],
+  "items": [{
+      "id": "http://localhost:8080/news/1842026-1900-mtc-koln/",
+      "url": "http://localhost:8080/news/1842026-1900-mtc-koln/",
+      "title": "18.4.2026 19:00 - MTC Köln",
+      "content_html": "<p>Wir feiern unseren ersten Auftritt als Vox Feralis im <a href=\"https://www.mtc-cologne.de\" rel=\"noopener\">MTC</a> zusammen mit <a href=\"https://sickofsearching.bandcamp.com/music\" rel=\"noopener\">Sick of Searching</a> und den <a href=\"https://www.reverbnation.com/lynchingjokers\" rel=\"noopener\">Lynching Jokers</a>!</p>\n<p><strong>18.04.2026<br>\nEinlass 19:00 Uhr<br>\nStart 19:30 Uhr<br>\nMTC Köln, Zülpicher Straße</strong></p>\n",
+      "date_published": "2026-01-21T00:00:00Z"
+    }
+    ,{
+      "id": "http://localhost:8080/news/ciao-schwermetall-enter-vox-feralis/",
+      "url": "http://localhost:8080/news/ciao-schwermetall-enter-vox-feralis/",
+      "title": "Ciao Schwermetall, Enter Vox Feralis",
+      "content_html": "<p>2015 gründeten Jens und Tuomas <a href=\"https://schwermetallband.de\" rel=\"noopener\">Schwermetall</a> um - wie der Name andeutet - deutschsprachigen Heavy Metal zu komponieren und zu spielen. Adrien übernahm die zweite Gitarre, Timm das Mikrofon und Tim den Bass. Es folgten zwei EPs und einige Konzerte.</p>\n<p>Als unser Gründungsmitglied Jens die Band Mitte 2025 verließ, fühlte es sich wie eine Zäsur an. Es war klar, dass wir weiter musizieren würden. Aber nicht mehr unter diesem Namen. Zu viel hatte sich verändert.</p>\n<p>Wir sind nicht mehr Schwermetall, wir sind Vox Feralis.</p>\n<p>Adrien, Nikolaj, Tuomas</p>\n",
+      "date_published": "2026-01-01T00:00:00Z"
+    }
+    
+  ]
+}

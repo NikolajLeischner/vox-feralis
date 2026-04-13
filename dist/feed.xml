@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de" xml:base="http://localhost:8080/">
+  <title>Vox Feralis Blog</title>
+  <subtitle>News von Vox Feralis</subtitle>
+  <link href="http://localhost:8080/feed.xml" rel="self" />
+  <link href="http://localhost:8080/" />
+  <updated>2026-04-13T21:32:12Z</updated>
+  <id>http://localhost:8080/</id>
+  <author>
+    <name>Vox Feralis</name>
+  </author>
+	<entry>
+      <title>18.4.2026 19:00 - MTC Köln</title>
+      <link href="http://localhost:8080/news/1842026-1900-mtc-koln/" />
+      <updated>2026-01-21T00:00:00Z</updated>
+      <id>http://localhost:8080/news/1842026-1900-mtc-koln/</id>
+      <content type="html">
+				&lt;p&gt;Wir feiern unseren ersten Auftritt als Vox Feralis im &lt;a href=&quot;https://www.mtc-cologne.de&quot; rel=&quot;noopener&quot;&gt;MTC&lt;/a&gt; zusammen mit &lt;a href=&quot;https://sickofsearching.bandcamp.com/music&quot; rel=&quot;noopener&quot;&gt;Sick of Searching&lt;/a&gt; und den &lt;a href=&quot;https://www.reverbnation.com/lynchingjokers&quot; rel=&quot;noopener&quot;&gt;Lynching Jokers&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;18.04.2026&lt;br&gt;
+Einlass 19:00 Uhr&lt;br&gt;
+Start 19:30 Uhr&lt;br&gt;
+MTC Köln, Zülpicher Straße&lt;/strong&gt;&lt;/p&gt;
+
+ 			</content>
+    </entry><entry>
+      <title>Ciao Schwermetall, Enter Vox Feralis</title>
+      <link href="http://localhost:8080/news/ciao-schwermetall-enter-vox-feralis/" />
+      <updated>2026-01-01T00:00:00Z</updated>
+      <id>http://localhost:8080/news/ciao-schwermetall-enter-vox-feralis/</id>
+      <content type="html">
+				&lt;p&gt;2015 gründeten Jens und Tuomas &lt;a href=&quot;https://schwermetallband.de&quot; rel=&quot;noopener&quot;&gt;Schwermetall&lt;/a&gt; um - wie der Name andeutet - deutschsprachigen Heavy Metal zu komponieren und zu spielen. Adrien übernahm die zweite Gitarre, Timm das Mikrofon und Tim den Bass. Es folgten zwei EPs und einige Konzerte.&lt;/p&gt;
+&lt;p&gt;Als unser Gründungsmitglied Jens die Band Mitte 2025 verließ, fühlte es sich wie eine Zäsur an. Es war klar, dass wir weiter musizieren würden. Aber nicht mehr unter diesem Namen. Zu viel hatte sich verändert.&lt;/p&gt;
+&lt;p&gt;Wir sind nicht mehr Schwermetall, wir sind Vox Feralis.&lt;/p&gt;
+&lt;p&gt;Adrien, Nikolaj, Tuomas&lt;/p&gt;
+
+ 			</content>
+    </entry></feed>
