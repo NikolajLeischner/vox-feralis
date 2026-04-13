@@ -5,8 +5,8 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Blog',
-      url: '/blog/'
+      text: 'News',
+      url: '/news/'
     }
   ],
   bottom: [

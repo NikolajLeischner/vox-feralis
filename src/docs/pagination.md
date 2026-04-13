@@ -19,7 +19,7 @@ You can also **hide the number fields** between the previous and next buttons by
 ```js
 blog: {
 	// other adjustments
-	paginationLabel: 'Blog',
+	paginationLabel: 'News',
 	paginationPage: 'Page',
 	paginationPrevious: 'Previous',
 	paginationNext: 'Next',
@@ -34,7 +34,7 @@ pagination:
   data: collections.posts
 ```
 
-and where the pagination component is included: `src/_layouts/blog.njk`:
+and where the pagination component is included: `src/_layouts/news.njk`:
 
 {% raw %}
 

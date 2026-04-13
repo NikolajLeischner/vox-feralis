@@ -20,7 +20,7 @@ export const creator = {
 export const pathToSvgLogo = 'src/assets/svg/misc/logo.svg'; // used for favicon generation
 export const themeColor = '#981a04'; // used in manifest, for example primary color value
 export const themeLight = '#f8f8f8'; // used for meta tag theme-color, if light colors are prefered. best use value set for light bg
-export const themeDark = '#2e2e2e'; // used for meta tag theme-color, if dark colors are prefered. best use value set for dark bg
+export const themeDark = '#262039'; // used for meta tag theme-color, if dark colors are prefered. best use value set for dark bg
 export const opengraph_default = '/assets/images/template/opengraph-default.jpg'; // fallback/default meta image
 export const opengraph_default_alt = "Visible content: "; // alt text for default meta image"
 export const blog = {
@@ -45,7 +45,7 @@ export const blog = {
   tagPlural: 'Tags',
   tagMore: 'Mehr tags:',
   // pagination
-  paginationLabel: 'Blog',
+  paginationLabel: 'Gigs',
   paginationPage: 'Page',
   paginationPrevious: 'Previous',
   paginationNext: 'Next',

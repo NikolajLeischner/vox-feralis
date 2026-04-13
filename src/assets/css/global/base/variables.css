@@ -13,9 +13,9 @@
 
   --gradient-rainbow: linear-gradient(90deg, #cf4662 10%, #fbbe25 30%, #62c95c 50%, #08bccb 75%, #a977d5 90%);
   --gradient-conic: conic-gradient(
-    var(--color-primary) 0 28%,
-    var(--color-secondary) 0 67%,
-    var(--color-tertiary) 0 100%
+    #ccc9cf 0 28%,
+    #787575 0 67%,
+    #c4c0c8 0 100%
   );
   --gradient-stripes: linear-gradient(
     45deg,
@@ -49,26 +49,26 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --color-text: var(--color-gray-100);
-    --color-bg: var(--color-gray-800);
+    --color-bg: var(--color-dark-sky);
 
     --color-primary: var(--color-blue-subdued);
     --color-secondary: var(--color-pink-subdued);
     --color-tertiary: var(--color-gold-subdued);
 
     --color-text-accent: var(--color-gray-300);
-    --color-bg-accent: var(--color-gray-700);
-    --color-bg-accent-2: var(--color-gray-600);
+    --color-bg-accent: var(--color-gray-800);
+    --color-bg-accent-2: var(--color-gray-700);
   }
 }
 :root[data-theme='dark'] {
   --color-text: var(--color-gray-100);
-  --color-bg: var(--color-gray-800);
+  --color-bg: var(--color-dark-sky);
 
-  --color-primary: var(--color-pink-subdued);
-  --color-secondary: var(--color-blue-subdued);
+  --color-primary: var(--color-blue-subdued);
+  --color-secondary: var(--color-pink-subdued);
   --color-tertiary: var(--color-gold-subdued);
 
   --color-text-accent: var(--color-gray-300);
-  --color-bg-accent: var(--color-gray-700);
-  --color-bg-accent-2: var(--color-gray-600);
+  --color-bg-accent: var(--color-gray-800);
+  --color-bg-accent-2: var(--color-gray-700);
 }
