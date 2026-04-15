@@ -1,4 +1,4 @@
-export const url = process.env.URL || 'http://localhost:8080';
+export const url = process.env.URL || 'https://vox-feralis.de';
 // Extract domain from `url`
 export const band = "Vox Feralis";
 export const domain = new URL(url).hostname;
