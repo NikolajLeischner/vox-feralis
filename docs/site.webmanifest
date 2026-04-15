@@ -1,7 +1,7 @@
 {
   "name": "Vox Feralis - Eine Thrash-Metal-Band aus Köln",
   "short_name": "Vox Feralis",
-  "start_url": "http://localhost:8080",
+  "start_url": "https://vox-feralis.de",
   "icons": [
     {
       "src": "/icon-192x192.png",

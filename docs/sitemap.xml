@@ -8,7 +8,7 @@
       
 
       <url>
-        <loc>http://localhost:8080/news/ciao-schwermetall-enter-vox-feralis/</loc>
+        <loc>https://vox-feralis.de/news/ciao-schwermetall-enter-vox-feralis/</loc>
         <lastmod>2026-01-01T00:00:00.000Z</lastmod>
         <changefreq>monthly</changefreq>
     </url>
@@ -21,7 +21,7 @@
       
 
       <url>
-        <loc>http://localhost:8080/tags/</loc>
+        <loc>https://vox-feralis.de/tags/</loc>
         <lastmod>2026-01-14T00:49:22.000Z</lastmod>
         <changefreq>monthly</changefreq>
     </url>
@@ -80,7 +80,7 @@
       
 
       <url>
-        <loc>http://localhost:8080/about/</loc>
+        <loc>https://vox-feralis.de/about/</loc>
         <lastmod>2026-01-14T00:49:22.000Z</lastmod>
         <changefreq>monthly</changefreq>
     </url>
@@ -93,7 +93,7 @@
       
 
       <url>
-        <loc>http://localhost:8080/news/</loc>
+        <loc>https://vox-feralis.de/news/</loc>
         <lastmod>2026-01-14T00:49:22.000Z</lastmod>
         <changefreq>monthly</changefreq>
     </url>
@@ -106,7 +106,7 @@
       
 
       <url>
-        <loc>http://localhost:8080/</loc>
+        <loc>https://vox-feralis.de/</loc>
         <lastmod>2026-01-14T00:49:22.000Z</lastmod>
         <changefreq>monthly</changefreq>
     </url>
@@ -119,7 +119,7 @@
       
 
       <url>
-        <loc>http://localhost:8080/imprint/</loc>
+        <loc>https://vox-feralis.de/imprint/</loc>
         <lastmod>2026-01-14T00:49:22.000Z</lastmod>
         <changefreq>monthly</changefreq>
     </url>
@@ -132,7 +132,7 @@
       
 
       <url>
-        <loc>http://localhost:8080/news/1842026-1900-mtc-koln/</loc>
+        <loc>https://vox-feralis.de/news/1842026-1900-mtc-koln/</loc>
         <lastmod>2026-01-21T00:00:00.000Z</lastmod>
         <changefreq>monthly</changefreq>
     </url>
