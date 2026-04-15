@@ -37,3 +37,13 @@
     local(''),
     url('/assets/fonts/redhat/red-hat-display-v7-latin-900.woff2') format('woff2');
 }
+
+@font-face {
+  font-family: 'WeissInitialen';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local(''),
+    url('/assets/fonts/weiss/WeissInitialen.woff2') format('woff2');
+}
